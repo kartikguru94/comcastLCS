@@ -1,13 +1,13 @@
 # comcastLCS
 
-#To Run Spring Boot Application use commans
+#To Run Spring Boot Application use command: 
 mvn spring-boot:run
 
 
-#To Run Spring Boot Application Test Cases use command
+#To Run Spring Boot Application Test Cases use command: 
 mvn test
 
-#To check for the rest endpoint use after application started
+#To check for the rest endpoint use after application started : 
 
 curl --location --request POST 'http://localhost:8080/lcs/' \
 --header 'Content-Type: application/json' \
