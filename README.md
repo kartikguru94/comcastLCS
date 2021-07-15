@@ -22,5 +22,5 @@ curl --location --request POST 'http://localhost:8080/lcs/' \
     ]
 }'
 
-Github Repo for the application is
+#Github Repo for the application is: git clone https://github.com/kartikguru94/comcastLCS.git
 
